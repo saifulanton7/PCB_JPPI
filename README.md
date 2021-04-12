@@ -1,4 +1,4 @@
-# PCB_JPPI
+# Progress PCB JPPI
 
 # Rules 
    1. Untuk Setiap Pembaruan desain pcb atau skematik harus di list log pengerjaan terakhir, Nama, tanggal dan jam, serta upload ulang file yg dikerjakan
