@@ -19,6 +19,6 @@
    - Kesulitan Library Trafo Power CT 18VAC, dan Trafo Power CT 9VAC pada rangkaian  
    - Tidak Tahu Spek Trafo dirangkaian isolation circuit
    - Tidak Jelasnya Nilai Resitor didekat Transistor TR1 Sampai TR8
-2. Saiful Anton - 12 April 2021 (22:51 WIB)
+2. Saiful Anton - 12 April 2021 (22:29 WIB)
    - Kesulitan Library Trafo/induktor tidak ada dan saya tidak tahu jenis dan speknya  
   
