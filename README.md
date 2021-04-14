@@ -8,6 +8,10 @@
 # Log Pengerjaan
 1. Saiful Anton - 12 April 2021 (22:51 WIB)
    - Selesai mengerjakan Rangkaian Power Supply dan memcicil rangkaian isolation circuit
+2. Saiful Anton - 14 April 2021 (22:29 WIB)
+   - Selesai mengerjakan Rangkaian Isolation circuit dengan catatan Trafo/induktor tidak tau spek sehingga dikosongin
+   - Mencicil skematik forward direction gate controller
+   - file skematik sudah diupdate
 
 
 # Log Kesulitan
@@ -15,4 +19,6 @@
    - Kesulitan Library Trafo Power CT 18VAC, dan Trafo Power CT 9VAC pada rangkaian  
    - Tidak Tahu Spek Trafo dirangkaian isolation circuit
    - Tidak Jelasnya Nilai Resitor didekat Transistor TR1 Sampai TR8
-   
+2. Saiful Anton - 12 April 2021 (22:51 WIB)
+   - Kesulitan Library Trafo/induktor tidak ada dan saya tidak tahu jenis dan speknya  
+  
