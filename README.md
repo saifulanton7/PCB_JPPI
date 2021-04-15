@@ -24,4 +24,4 @@
 2. Saiful Anton - 14 April 2021 (22:29 WIB)
    - Kesulitan Library Trafo/induktor tidak ada dan saya tidak tahu jenis dan speknya  
 3. Saiful Anton - 15 April 2021 (22:45 WIB)
-   - tidak tahunya spesifikasi Trafo/induktor isolasosi    
+   - tidak tahunya spesifikasi Trafo/induktor isolasi    
