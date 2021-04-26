@@ -15,7 +15,10 @@
 3. Saiful Anton - 15 April 2021 (22:45 WIB)
    - Selesai mengerjakan Rangkaian forward directional gate controller dengan catatan Trafo/induktor tidak tau spesifikasinya dan diganti dengan komponen eagle yang lain
    - file skematik sudah diupdate
-
+3. Saiful Anton - 26 April 2021 (12:07 WIB)
+   - Selesai mengerjakan Rangkaian logic circuit
+   - file skematik sudah diupdate
+   
 # Log Kesulitan
 1. Saiful Anton - 12 April 2021 (22:51 WIB)
    - Kesulitan Library Trafo Power CT 18VAC, dan Trafo Power CT 9VAC pada rangkaian  
