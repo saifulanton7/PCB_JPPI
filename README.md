@@ -16,7 +16,7 @@
    - Selesai mengerjakan Rangkaian forward directional gate controller dengan catatan Trafo/induktor tidak tau spesifikasinya dan diganti dengan komponen eagle yang lain
    - file skematik sudah diupdate
 3. Saiful Anton - 26 April 2021 (12:07 WIB)
-   - Selesai mengerjakan Rangkaian logic circuit
+   - Selesai mengerjakan Rangkaian logic circuit dan reverse directional gate controller
    - file skematik sudah diupdate
    
 # Log Kesulitan
